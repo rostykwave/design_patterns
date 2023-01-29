@@ -1,0 +1,25 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "- Singleton\r - Prototype\r - Builder\r - Factory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rostykwave/design_patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rostykwave/design_patterns/issues"
+  },
+  "homepage": "https://github.com/rostykwave/design_patterns#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
