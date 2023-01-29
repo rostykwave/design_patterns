@@ -18,3 +18,5 @@
 - Observer
 - Mediator
 - State
+
+### Every branch belongs to some design pattern
