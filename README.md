@@ -1,18 +1,18 @@
 # design_patterns
 
-##Creational
+## Creational
 
 - Singleton
 - Prototype
 - Builder
 - Factory
 
-##Structural
+## Structural
 
 - Facade
 - Proxy
 
-##Beahavioral
+## Beahavioral
 
 - Iterator
 - Observer
